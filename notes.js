@@ -1,0 +1,11 @@
+/* Inorder to work with files in the directroy you must
+require the fs module 
+
+
+
+
+
+
+
+
+*/
