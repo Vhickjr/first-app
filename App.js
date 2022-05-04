@@ -6,7 +6,7 @@ const fs = require('fs');
 
 //console.log(files);
 
-// Asynchroneos
+// Asynchroneous
 
 fs.readdir('./', function (err, files) {
   if (err) console.log('Error', err);
