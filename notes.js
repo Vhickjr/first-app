@@ -1,10 +1,15 @@
 /* Inorder to work with files in the directroy you must
 require the fs module 
 
+EVENTS module
 
 
 
+A CLASS is like a common noun while an Object is like a proper noun
 
+
+EVENT ARGUMENT
+EXTENDING EVENT EMMITTER
 
 
 
