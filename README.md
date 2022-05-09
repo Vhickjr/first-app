@@ -1,3 +1,3 @@
 # node-muz6kc
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-muz6kc)
+# 1hr NodeJs Tutorial from programming with Mosh.
